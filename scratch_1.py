@@ -10,4 +10,3 @@ greet("George")
 
 import math
 print(math.sqrt(16))
-math.
